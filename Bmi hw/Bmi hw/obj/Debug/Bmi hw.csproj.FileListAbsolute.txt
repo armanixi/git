@@ -1,0 +1,7 @@
+c:\users\安\source\repos\Bmi hw\Bmi hw\obj\Debug\Bmi hw.csprojResolveAssemblyReference.cache
+c:\users\安\source\repos\Bmi hw\Bmi hw\obj\Debug\Bmi hw.csproj.CoreCompileInputs.cache
+c:\users\安\source\repos\Bmi hw\Bmi hw\bin\Debug\Bmi hw.exe.config
+c:\users\安\source\repos\Bmi hw\Bmi hw\bin\Debug\Bmi hw.exe
+c:\users\安\source\repos\Bmi hw\Bmi hw\bin\Debug\Bmi hw.pdb
+c:\users\安\source\repos\Bmi hw\Bmi hw\obj\Debug\Bmi hw.exe
+c:\users\安\source\repos\Bmi hw\Bmi hw\obj\Debug\Bmi hw.pdb
