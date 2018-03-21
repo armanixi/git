@@ -5,3 +5,10 @@ c:\users\安\source\repos\Bmi hw\Bmi hw\bin\Debug\Bmi hw.exe
 c:\users\安\source\repos\Bmi hw\Bmi hw\bin\Debug\Bmi hw.pdb
 c:\users\安\source\repos\Bmi hw\Bmi hw\obj\Debug\Bmi hw.exe
 c:\users\安\source\repos\Bmi hw\Bmi hw\obj\Debug\Bmi hw.pdb
+C:\git\Bmi hw\Bmi hw\bin\Debug\Bmi hw.exe.config
+C:\git\Bmi hw\Bmi hw\bin\Debug\Bmi hw.exe
+C:\git\Bmi hw\Bmi hw\bin\Debug\Bmi hw.pdb
+C:\git\Bmi hw\Bmi hw\obj\Debug\Bmi hw.csprojResolveAssemblyReference.cache
+C:\git\Bmi hw\Bmi hw\obj\Debug\Bmi hw.csproj.CoreCompileInputs.cache
+C:\git\Bmi hw\Bmi hw\obj\Debug\Bmi hw.exe
+C:\git\Bmi hw\Bmi hw\obj\Debug\Bmi hw.pdb

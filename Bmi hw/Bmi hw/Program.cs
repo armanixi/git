@@ -14,7 +14,7 @@ namespace Bmi_hw
             float height = float.Parse(Console.ReadLine());
             Console.Write("輸入你的體重");
             float weight = float.Parse(Console.ReadLine());
-            float BMI = weight / height * height;
+            float BMI = (weight /( height * height));
             Console.WriteLine("你的BMI值為:" + BMI);
             if (BMI > 31.5)
             {
